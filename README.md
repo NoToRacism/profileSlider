@@ -2,6 +2,9 @@
 
 This project is a simple and responsive image or quote slider component built with React. It allows you to display a list of items (in this case, people with images, names, titles, and quotes) in a rotating carousel with both manual and automatic navigation.
 
+**[Live Demo](https://profileslider.netlify.app/)**
+
+
 ## Features
 
 * **Automatic Sliding:** The slider automatically transitions to the next item after a set interval (5 seconds by default).
